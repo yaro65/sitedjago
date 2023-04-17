@@ -998,3 +998,18 @@ margin-left: 100px;
       z-index: 0;
     }
   }
+
+  /*cub 3D*/
+
+  
+  @media (max-width: 1000px) {
+    #text h1 {
+      font-size: 40vw;
+    }
+  }
+  #min{
+    width: 25px;
+    height: 10px;
+    padding-left: 450px;
+   }
+  
